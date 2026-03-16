@@ -32,6 +32,8 @@
 -->
 <h3 align="left">🔥 My stats</h3>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=attilamester&show_icons=true&theme=shadow_blue)
+
 ###
 
 <div style="display: flex; flex-direction: column; width: 100%">
